@@ -1,0 +1,1 @@
+import { sculptureList } from "./SculptureListData";
